@@ -10,6 +10,10 @@
 
   * [[yao:obs|Open Bible Stories (yao)]]
 
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yao|d43-yao repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yao/archive/master.zip|d43-yao.zip]]
+
 **Recent Changes**
 {{changes>ns = yao}}
 
